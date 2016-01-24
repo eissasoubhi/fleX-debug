@@ -30,7 +30,7 @@ http://netfox01.github.io/flex-debug.html
 [screenshot]: /screenshot.png
 
 #<a name="to-do-list"></a>To do list
-- Make a google chrome and firefox extensions not to forget IE .. just kedding 
+- Make a google chrome and firefox extensions not to forget IE .. just kidding 
 
 #<a name="license"></a>License
 Don't give a sh*t just use it 
