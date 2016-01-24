@@ -33,4 +33,4 @@ http://netfox01.github.io/flex-debug.html
 - Make a google chrome and firefox extensions not to forget IE .. just kidding 
 
 #<a name="license"></a>License
-Don't give a sh*t just use it 
+The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)
