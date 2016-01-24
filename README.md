@@ -1,5 +1,5 @@
 # fleX-debug
-An extension for Xdebug php extension inspired from https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
+A plugin for Xdebug php extension inspired from https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
 
 #Table of contents
 
@@ -23,7 +23,7 @@ To show full object/array values, you may have to change the xdebug var_display_
 see http://stackoverflow.com/questions/9998490/how-to-get-xdebug-var-dump-to-show-full-object-array
 
 #<a name="demo"></a>Live demo
-Working on it :)
+http://netfox01.github.io/flex-debug.html 
 
 #<a name="screenshot"></a>Screenshot
 ![img][screenshot]
