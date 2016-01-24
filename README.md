@@ -29,7 +29,7 @@ Working on it :)
 ![img][screenshot]
 [screenshot]: /screenshot.png
 
-#<a name="to-do-list"></a>Live To do list
+#<a name="to-do-list"></a>To do list
 - Make a google chrome and firefox extensions not to forget IE .. just kedding 
 
 #<a name="license"></a>License
