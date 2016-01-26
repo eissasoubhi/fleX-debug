@@ -1,5 +1,5 @@
 # fleX-debug
-A plugin for Xdebug php extension inspired from https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
+A plugin for Xdebug php extension inspired by https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
 
 #Table of contents
 
