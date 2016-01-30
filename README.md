@@ -19,7 +19,7 @@ A plugin for Xdebug php extension inspired from https://github.com/callumlocke/j
 - Include flex-debug.js in your page 
 - Enjoy
 
-you can get this plugin as a google chrome extension in `master` branch:
+**you can get this plugin as a google chrome extension in `master` branc**
 
 To show full object/array values, you may have to change the xdebug var_display_max_depth variable to a greater value in php.ini or at runtime via ini_set("xdebug.var_display_max_depth",10);
 see http://stackoverflow.com/questions/9998490/how-to-get-xdebug-var-dump-to-show-full-object-array
