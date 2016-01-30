@@ -1,5 +1,5 @@
 # fleX-debug
-A plugin for Xdebug php extension inspired from https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
+A plugin for Xdebug php extension inspired by https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
 
 #Table of contents
 
@@ -33,4 +33,4 @@ http://netfox01.github.io/flex-debug.html
 - Make a google chrome and firefox extensions not to forget IE .. just kidding 
 
 #<a name="license"></a>License
-Don't give a sh*t just use it 
+The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)
