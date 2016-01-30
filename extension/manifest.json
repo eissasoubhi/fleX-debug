@@ -1,0 +1,21 @@
+{
+  "name": "fleX-debug",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Makes Xdebug printed data easy to navigation. Open source.",
+  "homepage_url": "https://github.com/netfox01/fleX-debugr",
+  "minimum_chrome_version": "21",
+  "icons": {
+       "128": "icons/128.png",
+       "32": "icons/32.png",
+       "512": "icons/512.png"
+  },
+  "author" : "<eissa.soubhi@gmail.com>",
+  "background": {
+    "scripts": ["js/thirdParty/jquery.2.2.0.min.js","js/background.js"]
+  },
+  "content_scripts": [
+    { "matches": ["<all_urls>"], "js": ["js/thirdParty/jquery.2.2.0.min.js","js/background.js", "js/content.js"], "run_at": "document_start" }
+  ],
+  "permissions":["*://*/*", "<all_urls>"]
+}
