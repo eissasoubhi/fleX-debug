@@ -18,6 +18,8 @@ An extension for Xdebug php extension inspired by https://github.com/callumlocke
 - click "Load unpacked extension",
 - select the `extension` folder in this repo.
 
+**you can get this extension as a JQuery plugin in `flex-debug-plugin.js` branch**:
+
 To show full object/array values, you may have to change the xdebug var_display_max_depth variable to a greater value in php.ini or at runtime via ini_set("xdebug.var_display_max_depth",10);
 see http://stackoverflow.com/questions/9998490/how-to-get-xdebug-var-dump-to-show-full-object-array
 
