@@ -1,6 +1,8 @@
 # fleX-debug
 An extension for Xdebug php extension inspired by https://github.com/callumlocke/json-formatter allowing navigation in printed data like tree nodes instead of scrolling up-down, up-down, up-down, up-down... >:( 
 
+see [demo](https://netfox01.github.io/fleX-debug/)
+
 #Table of contents
 
 - [Installation](#how-to-use)
@@ -25,7 +27,7 @@ see http://stackoverflow.com/questions/9998490/how-to-get-xdebug-var-dump-to-sho
 
 #<a name="demo"></a>URL to try it on
 
-http://netfox01.github.io/var_dump.html
+https://netfox01.github.io/fleX-debug/test-it.html
 
 #<a name="screenshot"></a>Screenshot
 ![img][screenshot]
